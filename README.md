@@ -1,3 +1,6 @@
+
+![logo](https://github.com/YogeshJavaTech/YogeshJavaTech/blob/main/coverimage.png)
+
 <h1 align="center">Hi 👋, I'm Yogesh Nikhar</h1>
 <h3 align="center">Passionate Software Developer | Crafting Innovative Solutions with Code | Based in India 🇮🇳</h3>
 <p align="center">
