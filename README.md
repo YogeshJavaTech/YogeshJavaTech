@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-# Welcome to My LinkedIn Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
 ## 🔭 Currently Working On:
 I'm currently working on a CRM Project.
