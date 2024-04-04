@@ -27,15 +27,9 @@ All of my projects are available at [🚀 GitHub: YogeshJavaTech Projects](https
 ## 📝 Articles:
 I regularly write articles on [Yogesh Nikhar's Blog](https://yogeshnikhar.wordpress.com/yogesh-nikharsoftware-developer/)
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h2>💬 Ask Me About:</h2>
-    <p>Versatile Java Fullstack Developer adept at crafting robust and scalable solutions for diverse projects. With expertise in Java backend development using frameworks like Spring and Java EE, I architect efficient systems to handle complex business logic and data processing. On the frontend, I create seamless user experiences using HTML, CSS, JavaScript, and modern frameworks like Angular and React. Proficient in designing RESTful APIs, implementing authentication mechanisms, and optimizing application performance, I excel in bridging the gap between frontend and backend development. A proactive learner, I stay updated with the latest technologies and best practices to deliver innovative solutions. Let's collaborate and build remarkable software together!</p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Image" width="400">
-  </div>
-</div>
+## 💬 Ask Me About:
+Versatile Java Fullstack Developer adept at crafting robust and scalable solutions for diverse projects. With expertise in Java backend development using frameworks like Spring and Java EE, I architect efficient systems to handle complex business logic and data processing. On the frontend, I create seamless user experiences using HTML, CSS, JavaScript, and modern frameworks like Angular and React. Proficient in designing RESTful APIs, implementing authentication mechanisms, and optimizing application performance, I excel in bridging the gap between frontend and backend development. A proactive learner, I stay updated with the latest technologies and best practices to deliver innovative solutions. Let's collaborate and build remarkable software together!
+
 
 
 ## 📫 How to Reach Me:
