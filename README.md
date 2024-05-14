@@ -34,7 +34,7 @@ Versatile Java Fullstack Developer adept at crafting robust and scalable solutio
 
 ## 📫 How to Reach Me:
 You can reach me through the following channels:
-- 🔗 LinkedIn: [Yogesh Nikhar's LinkedIn Profile](https://www.linkedin.com/in/yogesh-nikhar-b0b4451a2/)
+- 🔗 LinkedIn: [Yogesh Nikhar's LinkedIn Profile](www.linkedin.com/in/yogeshnikhar)
 - 📧 Email: yogeshtechjava@gmail.com
 - 🐙 GitHub: [YogeshJavaTech GitHub Profile](https://github.com/YogeshJavaTech)
 Feel free to connect with me on LinkedIn or reach out via email. I'm also active on GitHub, where you can find some of my coding projects and contributions. Looking forward to connecting with you!
